@@ -1,0 +1,118 @@
+.maindiv{
+	text-align:Center;background-image:url("img/kaskus.png");float:none;width:800px;height:600px;margin-left:280px;
+	border-radius:10px 10px 0px 0px;
+	background-repeat:no-repeat;
+	margin-top:30px;
+}
+
+.header{
+	background-color:black;opacity:0.9;height:80px;font-size:24px;color:white;vertical-align:middle;font-weight:bold;padding-top:30px;
+	border-radius:10px 10px 0px 0px
+}
+
+.subketerangan{
+		font-size:16px;
+}
+
+.mainform{
+	background-color:green;height:150px;
+}
+
+.headermain{
+	background-color:black;height:40px;line-height:40px;vertical-align:middle;opacity:0.7;color:white
+}
+
+.headermain2{
+	background-color:black;height:40px;line-height:40px;vertical-align:middle;opacity:0.9;color:white
+}
+
+.imgpreview{
+	height:20px;width:30px;line-height:20px;
+}
+
+.imgplay{
+	height:50px;width:50px;margin-top:20px;cursor:pointer;margin-bottom:10px;
+}
+
+.imgplay:hover{
+	opacity:0.7;
+}
+
+.intimain{
+	height:97px;vertical-align:middle;padding-top:10px;color:white;font-weight:bold;
+	
+  background: #7D6F6F; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(-90deg, #7D6F6F, #695555); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(-90deg, #7D6F6F, #695555); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(-90deg, #7D6F6F, #695555); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(-90deg, #7D6F6F, #695555); /* Standard syntax */
+
+}
+
+.textnya{
+	margin:5px;border-radius:10px 10px 10px 10px;padding:5px;font-size:12px;border:3px solid black;opacity:0.8;text-align:center;
+}
+
+.textnya2{
+	margin:5px;border-radius:10px 10px 10px 10px;padding:5px;font-size:12px;border:3px solid black;opacity:0.8;width:500px;text-align:center;
+}
+
+.textnya:focus{
+	margin:5px;border-radius:10px 10px 10px 10px;padding:5px;font-size:12px;border:3px solid gray;opacity:0.8;text-align:center;
+}
+
+.textnya2:focus{
+	margin:5px;border-radius:10px 10px 10px 10px;padding:5px;font-size:12px;border:3px solid gray;opacity:0.8;width:500px;text-align:center;
+}
+
+.mainleft{
+	float:left;width:44%;height:148px;background-color:black;border:1px solid #695555;
+}
+
+.mainright{
+	float:left;width:41%;height:148px;background-color:black;border:1px solid #695555;
+}
+
+.mainsubmit{
+	float:left;width:14%;height:147px;background-color:#7D6F6F;border:2px solid #695555;color:orange;font-weight:bold
+}
+
+.status{
+	background-color:#C0BEBE;height:50px;vertical-align:middle;line-height:50px;
+	border-radius:0px 0px 10px 10px;
+	border:1px solid black;
+	color:black;
+	font-size:12px;
+	font-weight:bold;
+	font-family:comic sans;
+	
+}
+
+.inputmsg{
+	width:800px; height:250px;background-color:gray;
+}
+
+#pmstatus{
+	color:white
+}
+
+.msgnya{
+	text-align:left;padding:10px;color:white;font-weight:bold;
+}
+
+.teksareanya{
+	border:3px solid black;
+	border-radius:10px 10px 10px 10px;
+	margin-left:50px;
+	padding:10px;
+	text-align:center;
+}
+
+.teksareanya:focus{
+	border:3px solid gray;
+	border-radius:10px 10px 10px 10px;
+	margin-left:50px;
+	padding:10px;
+	text-align:center;
+	
+}
